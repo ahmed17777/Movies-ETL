@@ -1,4 +1,4 @@
-# Movies-ETL-
+# Amazing Prime's Automated ETL Pipeline
 
 Syed Ahmed 
 April 19, 2021
