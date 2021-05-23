@@ -17,3 +17,5 @@ The ratings table, which has 26,024,289 ratings.
 
 ![ratings_query](https://user-images.githubusercontent.com/45697471/115349761-3c096080-a182-11eb-9d5a-b4918abd884b.png)
 
+### Contact 
+#### E-mail: [mishaal22s@gmail.com] 
